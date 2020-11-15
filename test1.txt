@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 58A0-BE6A
+
+ Directory of C:\Users\maryouma\Desktop\PROJECT-ISTQB
+
+15/11/2020  09:47    <DIR>          .
+15/11/2020  09:47    <DIR>          ..
+15/11/2020  09:47                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  198ÿ278ÿ062ÿ080 bytes free
